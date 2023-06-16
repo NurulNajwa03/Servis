@@ -1,0 +1,95 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+body{
+    
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+.regform{
+    width: 800px;
+    background-color: rgb(0, 0, 0, 0.6);
+    margin: auto;
+    color: #ffffff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+.main{
+    width: 800px;
+    background-color: rgb(0, 0, 0, 0.5);
+    margin: auto;
+}
+   form{
+    padding: 10px;
+    height: 100px;
+}
+.name{
+    margin-left: 25px;
+    margin-top:  30px;
+    width: 125px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+.firstname{
+    position: relative;
+    left: 130px;
+    top: -30px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.lasttname{
+    position: relative;
+    left: 230px;
+    top: -30px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #555;
+}
+.firstlabel{
+    position: relative;
+    color: #e5e5e5;
+    text-transform: capitalize;
+    font-size: 14px;
+    left: 25px;
+    
+}
+.lastlabel{
+    position: relative;
+    color: #e5e5e5;
+    text-transform: capitalize;
+    font-size: 14px;
+    left: 130px;
+    
+
+}
+.company{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    width: 480px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #555;
+}
+.email{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    width: 480px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #555;
+}

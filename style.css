@@ -1,0 +1,68 @@
+
+.form-control{
+    margin-right: 5px;
+    border: 3px solid #112D4E;
+    border-radius: 15px;
+    width: 390px;
+}
+.btn{
+    border: 3px solid #112D4E;
+    border-radius: 15px;
+}
+.save{
+    margin-right: 10px;
+
+}
+.location{
+    margin-right: 10px;
+}
+.login{
+    text-decoration: dashed;
+    font-size: 20px;
+    font-family: verdana;
+    margin-right: 20px;
+    border-radius: 8px;
+    border: transparent;
+    background-color: transparent
+}
+.daftar{
+    text-decoration: dashed;
+    font-size: 20px;
+    font-family: verdana;
+    margin-right: 20px;
+    border-radius: 8px;
+    border: transparent;
+    background-color: transparent
+}
+.my{
+    text-decoration: dashed;
+    font-size: 20px;
+    font-family: verdana;
+    margin-left: 300px;
+    border-radius: 8px;
+    margin-right: 20px;
+    border: transparent;
+    background-color: transparent
+}
+.feed{
+    border: transparent;
+    background-color: transparent
+}
+
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.regform{
+    width: 800px;
+    background-color: rgb(0, 0, 0, 0.6);
+    margin: auto;
+    color: #ffffff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
